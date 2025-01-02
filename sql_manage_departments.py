@@ -1,3 +1,6 @@
+# This code is part of the IBM Data Engineering Professional Certificate course on Coursera.
+# © IBM Corporation. All rights reserved.
+
 import sqlite3
 import pandas as pd
 
