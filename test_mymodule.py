@@ -1,3 +1,5 @@
+# This code is part of the IBM Data Engineering Professional Certificate course on Coursera.
+
 import unittest
 from mymodule import square, double
 
